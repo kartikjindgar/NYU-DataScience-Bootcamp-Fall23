@@ -10,8 +10,6 @@ Welcome to the NYU Data Science Bootcamp repository! Here, you'll find a collect
 
 - **Practice Problems**: Explore a range of practice problems to reinforce your learning and sharpen your data science skills.
 
-Slides will be uploaded prior to the lecture along with the practice problems. Answers to these will uploaded post the submission deadline. 
-
 ## Getting Started
 
 Slides will be uploaded prior to the lecture along with the practice problems. Answers to these will uploaded post the submission deadline.
