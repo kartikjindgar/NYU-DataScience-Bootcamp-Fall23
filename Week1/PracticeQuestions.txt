@@ -1,0 +1,21 @@
+1. Display Fibonacci Series upto 10 terms
+2. Display numbers at the odd indices of a list
+3. Print a list in reverse order
+4. Your task is to count the number of different words in this text
+	
+	string = """
+	ChatGPT has created this text to provide tips on creating interesting paragraphs. 
+	First, start with a clear topic sentence that introduces the main idea. 
+	Then, support the topic sentence with specific details, examples, and evidence.
+	Vary the sentence length and structure to keep the reader engaged.
+	Finally, end with a strong concluding sentence that summarizes the main points.
+	Remember, practice makes perfect!
+	"""
+
+5. Write a function that takes a word as an argument and returns the number of vowels in the word
+6. Iterate through the following list of animals and print each one in all caps.
+
+  animals=['tiger', 'elephant', 'monkey', 'zebra', 'panther']
+
+7. Iterate from 1 to 15, printing whether the number is odd or even
+8. Take two integers as input from user and return the sum
