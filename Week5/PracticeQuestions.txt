@@ -1,0 +1,8 @@
+## Practice Questions
+1. How do you assess the statistical significance of an insight?
+2. What is the Central Limit Theorem? Explain it. Why is it important?
+3. What is the statistical power?
+4. How do you control for biases?
+5. What are confounding variables?
+6. What is A/B testing?
+7. What are confidence intervals?
