@@ -1,0 +1,19 @@
+#####LOGISTIC REGRESSION#########
+
+1. Try different thresholds for computing predictions. By default it is 0.5. Use predict_proba function to compute probabilities and then try custom thresholds and see their impact on Accuracy, Precision and Recall
+
+2. Do the same analysis for other columns
+
+3. Fit a Logistic Regression Model on all features. Remember to preprocess data(eg. normalization and one hot encoding)
+
+4. Plot ROC Curves for each model
+
+
+######CLUSTERING#########
+1. Repeat the above exercise for different values of k
+ - How do the inertia and silhouette scores change?
+ - What if you don't scale your features?
+ - Is there a 'right' k? Why or why not?
+
+
+2. Repeat the following exercise for food nutrients dataset
